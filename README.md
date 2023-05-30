@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dpxaln0kd/image/upload/v1685452186/cld-sample-5.jpg"/>
+<img src="https://res.cloudinary.com/dpxaln0kd/image/upload/v1685452230/friday_qbftor.gif"/>
 
 
 ## 🌐 Socials:
