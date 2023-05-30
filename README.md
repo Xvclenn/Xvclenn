@@ -43,7 +43,4 @@
 ---
 
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=xvclenn)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
