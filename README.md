@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/dpxaln0kd/image/upload/v1685452230/friday_qbftor.gif"/>
 
 # 😇 My Name Is:
-Xvclenn / Chikusoo /
+<b>Xvclenn / Chikusoo /</b>
 
 
 # 💻 Tech Stack:
