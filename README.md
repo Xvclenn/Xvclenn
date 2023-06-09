@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">A frontend and backend developer</h3>
+<h3 align="center">A Frontend beginner</h3>
 
 ---
 
