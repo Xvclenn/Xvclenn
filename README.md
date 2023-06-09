@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">A frontend and backend developer from Mongolia</h3>
+<h3 align="center">A frontend and backend developer</h3>
 
 ---
 
@@ -17,8 +17,6 @@
 
 ---
 
-### _From MONGOLIA 🇲🇳_
----
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xvclenn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chikusoo_6008) 
 
