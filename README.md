@@ -13,7 +13,7 @@
 
 ### **_Xvclenn / Chikusoo /_**
 ---
-[![](https://visitcount.itsvg.in/api?id=xvclenn&icon=8&color=5)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=xvclenn&icon=8&color=5)](https://visitcount.itsvg.in](https://i.gifer.com/39Cg.gif))
 
 ---
 
