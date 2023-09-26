@@ -7,7 +7,7 @@
 ---
 
 ## 😇 My Name Is:
-<img align="right" width="50%"  src="[https://thumbs.gfycat.com/ColorlessBitesizedKob.webp](https://i.gifer.com/39Cg.gif)"/>
+<img align="right" width="50%"  src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 
 
