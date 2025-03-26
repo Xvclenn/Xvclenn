@@ -1,10 +1,6 @@
-Error in user YAML: (<unknown>): did not find expected ',' or ']' while parsing a flow sequence at line 3 column 1
-
-Гэнээ
-
 ---
 ## :mailbox: Connect with me!
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][(https://facebook.com/xvclenn)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/xvclenn)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chikusoo_6008)
 
 
